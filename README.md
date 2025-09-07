@@ -51,7 +51,7 @@
   <a href="https://mdjunaidulislam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:junaidul.islam@egeneration.co"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/md-junaidul-islam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/junaid-egen"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/junaaid96"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
