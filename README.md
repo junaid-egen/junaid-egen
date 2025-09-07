@@ -28,18 +28,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-egen&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-egen&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
 ---
 
-## 🚀 Fun Extras  
+## ☕ Coffee Powered Developer  
 
-- 🧩 Always exploring **system design & distributed systems**  
-- 🎵 Music fuels my coding sessions 🎧  
-- 🌱 Currently diving deeper into **Spring Boot microservices + Angular**  
-- 🏆 Goal: To contribute to **open-source enterprise projects**  
+<p align="center">
+  <img src="https://img.shields.io/badge/☕-Coffee%20Driven-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Coffee%20Inside-brown?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Brewed%20Fresh-blue?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+- ⚡ My IDE runs on caffeine  
+- ☕ Fun fact: **Java = Coffee** (and I run on both)  
+- 🛠️ I don’t just **write code** — I **brew it**  
+- 🚀 "Strong coffee, stronger backend systems"
 
 ---
 
