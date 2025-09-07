@@ -11,18 +11,6 @@
 
 ---
 
-## 🎨 About Me  
-
-- 💼 Software Engineer at **[eGeneration PLC](https://egeneration.co/)**  
-- 🌍 Based in **Dhaka, Bangladesh (UTC +06:00)**  
-- 🛠️ Building **enterprise-grade applications** with modern tech  
-- 🎯 Focused on **backend systems, performance & scalability**  
-- 📧 Reach me at: **junaidul.islam@egeneration.co**  
-- 🌐 Portfolio: [mdjunaidulislam.netlify.app](https://mdjunaidulislam.netlify.app/)  
-- 💬 Pronouns: **he/him**  
-
----
-
 ## ⚡ Tech Arsenal  
 
 <p align="center">
