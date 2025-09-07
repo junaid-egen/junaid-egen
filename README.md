@@ -17,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,postgresql,redis,kafka" />
   <br/>
   <img src="https://img.shields.io/badge/JasperReports-FF6F00?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-0088cc?style=for-the-badge" />
 </p>
 
 ---
@@ -41,7 +43,9 @@
 - ⚡ My IDE runs on caffeine  
 - ☕ Fun fact: **Java = Coffee** (and I run on both)  
 - 🛠️ I don’t just **write code** — I **brew it**  
-- 🚀 "Strong coffee, stronger backend systems"
+- 🏗️ Love crafting systems with **Domain-Driven Design** principles  
+- 📡 Believe in **Event-Driven Architecture** for scalable, resilient apps  
+- 🚀 Strong coffee = Stronger backend systems
 
 ---
 
