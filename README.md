@@ -26,8 +26,8 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaid-egen&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-egen&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaid-egen&show_icons=true&theme=transparent&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-egen&theme=transparent&hide_border=true" height="180em" />
 </p>
 
 ---
